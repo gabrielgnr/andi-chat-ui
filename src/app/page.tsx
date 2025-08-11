@@ -70,7 +70,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-gradient-to-br from-gray-100 to-blue-100 font-sans">
+    <div className="flex flex-col h-screen bg-gradient-to-br from-gray-100 to-blue-100 font-sans text-gray-800">
       <header className="bg-white/70 backdrop-blur border-b border-gray-200 p-4 flex justify-between items-center shadow-md">
         <h1 className="text-2xl font-semibold text-gray-800">Asisten SIAP</h1>
         <button 
